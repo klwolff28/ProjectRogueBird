@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "Test_Actions",
+    "maps": [
+        {
+            "name": "Shoot_Deathball",
+            "id": "759a4fdd-eda3-4486-a820-79ac8400e042",
+            "actions": [
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "f2cf13f6-9d6b-495c-9c9d-112788725aff",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e7b46d35-e0f0-44d2-a2ee-b51d3795e839",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
